@@ -1,3 +1,8 @@
+package is.hi.skg26.hbv202g.ass3.frontend;
+import is.hi.skg26.hbv202g.ass3.backend.Greeter;
+import is.hi.skg26.hbv202g.ass3.frontend.UserInterface;
+
+
 public class Main {
 
     public static void main(String[] args) {

@@ -1,1 +1,1 @@
-java -cp bin .\src\Main.java
+java -cp bin is.hi.skg26.hbv202g.ass3.frontend.Main
